@@ -1,4 +1,4 @@
-//The following three lines of code includes libraries that will aid us use Adafruit motorShiels
+//The following three lines of code includes libraries that will aid us use Adafruit motorShield
 #include <Wire.h>
 #include <Adafruit_MotorShield.h>
 #include "utility/Adafruit_MS_PWMServoDriver.h"
